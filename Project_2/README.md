@@ -1,0 +1,1 @@
+In this data-analysis project, I have performed various Exploratory Data Analysis (EDA) tasks on Netflix movies dataset. This dataset contains data related to various movies categories released between year 1940 and 2020.
