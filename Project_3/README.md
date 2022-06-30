@@ -1,1 +1,1 @@
-In this data-analysis project, I re-analyzed the patient's mortality data, which is behind one of the most important discoveries of modern medicine: Handwashing. In this project, I have analyzed the data through various Exploratory Data Analsis (EDA) and statistical operations.
+In this data-analysis project, I re-analyzed the patient's mortality data, which is behind one of the most important discoveries of modern medicine: Handwashing. In Further, I have analyzed the data through various Exploratory Data Analsis (EDA) and statistical operations.
